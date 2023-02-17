@@ -3,9 +3,11 @@ This repository contains a collection of projects that I completed during my tim
 
 # Courses
 - Foundations of Programming (FP):
+  - Language used: [Python](https://www.python.org/)
   - [Project 1](https://github.com/03kiko/Uni-Projects/blob/main/1st%20year/FP/P1.py)
   - [Project 2](https://github.com/03kiko/Uni-Projects/blob/main/1st%20year/FP/P2.py)
 - Logic for Programming (LP):
+  - Language used: [Prolog](https://www.swi-prolog.org/)
   - [Project](https://github.com/03kiko/Uni-Projects/blob/main/1st%20year/LP/projeto-lp.pl)
   - [Data](https://github.com/03kiko/Uni-Projects/blob/main/1st%20year/LP/dados.pl) (given)
   - [Keywords](https://github.com/03kiko/Uni-Projects/blob/main/1st%20year/LP/keywords.pl) (given)
