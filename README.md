@@ -14,6 +14,6 @@ This repository contains a collection of projects that I completed during my tim
 - Introduction to Algorithms and Data Structures (IAED):
   - Language used: [C](https://en.wikipedia.org/wiki/C_(programming_language))
   - [Project 1](https://github.com/03kiko/Uni-Projects/blob/main/1st%20year/IAED/project1.c)
-  - [Project 2]()
+  - [Project 2](https://github.com/03kiko/Uni-Projects/tree/main/1st%20year/IAED/project2)
 ## Contributing
 This repository is for archival purposes only, and I am not accepting contributions at this time. However, feel free to fork the repository and use the code for your own learning purposes.
