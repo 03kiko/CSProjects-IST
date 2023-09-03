@@ -1,8 +1,6 @@
 ; ############################################################################################################################
 ; #  Grupo-35
-; #  Bogdan Prokopiuk Nº104016
-; #  João Maria Pereira Parreira Cota Teixeira Nº97226
-; #  Francisco Miguel Martins Mónica Nº 106583
+; # (...)
 ; #
 ; #  Teclas:
 ; #       -> '1': movimenta a sonda uma linha para cima  
