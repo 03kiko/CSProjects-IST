@@ -1,4 +1,4 @@
-/* iaed-23 - ist1106583 - project2 */
+/* iaed-23 - istXXXXXXX - project2 */
 
 /*
  * File: interchangePoints.c

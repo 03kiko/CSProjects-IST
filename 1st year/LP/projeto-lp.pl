@@ -1,4 +1,4 @@
-% 106583 Francisco Monica
+% istXXXXXXX Francisco Monica
 :- set_prolog_flag(answer_write_options,[max_depth(0)]).
 :-['dados.pl'],['keywords.pl'].
 
