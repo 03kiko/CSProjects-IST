@@ -964,5 +964,3 @@ def minas(coluna,linha,n_minas,bits,estado):
     print(('   [Bandeiras {}/{}]\n' + campo_para_str(campo)).format(n_bandeiras,n_minas))    
     print('VITORIA!!!')
     return True
-
-minas('Z',40,30,32,1)
