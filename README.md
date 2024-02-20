@@ -38,15 +38,15 @@ This repository comprises a compilation of projects completed during my Bachelor
   - Language used: [C](https://en.wikipedia.org/wiki/C_(programming_language))
   - [Project 1](https://github.com/03kiko/CSProjects-IST/tree/main/2nd%20year/SO/P1)
   - [Project 2](https://github.com/03kiko/CSProjects-IST/tree/main/2nd%20year/SO/P2)
-  - Developed an EMS (Event Management System) using multiple threads and processes.
-  - The second project used a named pipe approach, in which each client represented a process and the server used S threads.
+    - Developed an EMS (Event Management System) using multiple threads and processes.
+    - The second project used a named pipe approach, in which each client represented a process and the server used S threads.
   - Collaboration with: [Filipe Costa](https://github.com/FilipeAlexCosta).
 - Analysis and Synthesis of Algorithms (ASA):
   - Language used: [C++](https://en.wikipedia.org/wiki/C%2B%2B) & [Python](https://www.python.org/)
   - [Project 1](https://github.com/03kiko/CSProjects-IST/tree/main/2nd%20year/ASA/P1)
   - [Project 2](https://github.com/03kiko/CSProjects-IST/tree/main/2nd%20year/ASA/P2)
   - [Project 3](https://github.com/03kiko/CSProjects-IST/tree/main/2nd%20year/ASA/P3)
-  - The primary objective was to devise efficient algorithms for these tasks, with the initial project emphasizing dynamic programming, the second one concentrating on identifying strongly connected components (SCCs), and the third one centring around the application of linear programming.
+    - The primary objective was to devise efficient algorithms for these tasks, with the initial project emphasizing dynamic programming, the second one concentrating on identifying strongly connected components (SCCs), and the third one centring around the application of linear programming.
   - Collaboration with: [Filipe Costa](https://github.com/FilipeAlexCosta).
 ## Contributing
 This repository is primarily for archival purposes, and I'm not accepting contributions now. However, feel free to fork the repository and leverage the code for your learning endeavours.
