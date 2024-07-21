@@ -17,24 +17,24 @@ This repository comprises a compilation of projects completed during my Bachelor
     - Tasks involved various problem-solving challenges.
   - [Data](https://github.com/03kiko/Uni-Projects/blob/main/1st%20year/LP/dados.pl) (given by our teacher)
   - [Keywords](https://github.com/03kiko/Uni-Projects/blob/main/1st%20year/LP/keywords.pl) (given by our teacher)
-- Introduction to Algorithms and Data Structures (IAED):
+- Introduction to Algorithms and Data Structures (IADS):
   - Language used: [C](https://en.wikipedia.org/wiki/C_(programming_language))
   - [Project 1](https://github.com/03kiko/Uni-Projects/blob/main/1st%20year/IAED/project1.c)
   - [Project 2](https://github.com/03kiko/Uni-Projects/tree/main/1st%20year/IAED/project2)
     - Built a public transport route management system for both projects.
     - The second project expanded into dynamic memory utilization, unlike the first project which operated within static memory constraints.
-- Introduction to Computer Architecture (IAC):
+- Introduction to Computer Architecture (ICA):
   - Language used: [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
   - [Project 1](https://github.com/03kiko/Uni-Projects/tree/main/1st%20year/IAC/P1)
   - [Project 2](https://github.com/03kiko/Uni-Projects/tree/main/1st%20year/IAC/P2)
     - Developed a space voyage simulation game navigating the asteroid belt between Mars and Jupiter. 
     - Collaboration with two colleagues on these projects.
-- Object-Oriented Programming (PO):
+- Object-Oriented Programming (OOP):
   - Language used: [Java](https://www.java.com/en/)
   - [Project](https://github.com/03kiko/Uni-Projects/tree/main/2nd%20year/PO):
     - Created a simple spreadsheet
     - Collaboration with: [Filipe Costa](https://github.com/FilipeAlexCosta).
-- Operating Systems (SO):
+- Operating Systems (OS):
   - Language used: [C](https://en.wikipedia.org/wiki/C_(programming_language))
   - [Project 1](https://github.com/03kiko/CSProjects-IST/tree/main/2nd%20year/SO/P1)
   - [Project 2](https://github.com/03kiko/CSProjects-IST/tree/main/2nd%20year/SO/P2)
