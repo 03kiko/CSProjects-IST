@@ -54,6 +54,7 @@ This repository comprises a compilation of projects completed during my Bachelor
 - Artificial Intelligence (AI):
   - Language used: [Python](https://www.python.org/)
   - [Project](https://github.com/03kiko/CSProjects-IST/tree/main/2nd%20year/AI)
+    - Developed a program using AI techniques to solve an adapted version of the Pipe Mania game. The goal was to build a functional pipeline without water leaks.
   - Collaboration with: [Filipe Costa](https://github.com/FilipeAlexCosta).
 - Databases (DB): 
   - Technologies used:
@@ -61,11 +62,22 @@ This repository comprises a compilation of projects completed during my Bachelor
     - [Docker](https://www.docker.com/)
     - [Jupyter Notebook](https://jupyter.org/)
   - [Project]()
+    - Developed a DB project with integrity constraints, data population, and a RESTful web service with JSON API endpoints. It also included a materialized view, data analysis (SQL & OLAP), and query optimization with indexes.
+  - Collaboration with:
+    - [Filipe Costa](https://github.com/FilipeAlexCosta)
+    - [Tiago Cardoso](https://github.com/tiagomiguelcardoso)
 - Human-Computer Interaction (HCI):
   - Technologies used:
     - [Figma](https://www.figma.com/)
     - [p5.js](https://p5js.org/)
+  - [Project 1](https://github.com/03kiko/CSProjects-IST/tree/main/2nd%20year/HCI/P1)
+    - Redesigned the user interface of the [Quizzes-Tutor](https://quizzes-tutor.tecnico.ulisboa.pt/) mobile app.
+  - [Project 2](https://github.com/03kiko/CSProjects-IST/tree/main/2nd%20year/HCI/P2)
+    - Create a functional interface that minimizes selection time in a dense grid of 80 targets.
   - Collaboration with:
+    - [Filipe Costa](https://github.com/FilipeAlexCosta)
+    - [Rodrigo Freire](https://github.com/rodrigoFfreire)
+    - [David Rodrigue](https://github.com/davidrr21)
 
 ## Contributing
 This repository is primarily for archival purposes, and I'm not accepting contributions now. However, feel free to fork the repository and leverage the code for your learning endeavours.
