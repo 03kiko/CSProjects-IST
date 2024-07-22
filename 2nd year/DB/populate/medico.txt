@@ -1,0 +1,60 @@
+109185960;Salomé Campos-Leite;950896633;Travessa dos Mastros, 13 9846-797 Amarante;clínica geral
+947612741;Inês Alves;993543661;Praça Martins, 981 7699-531 Horta;clínica geral
+594991246;Patrícia-Isabel Neves;938154632;Rua do Passeio Alegre, 56 6616-718 Santana;clínica geral
+699724552;Constança Garcia;977109266;Travessa de Esteves, 66 1775-714 Vendas Novas;clínica geral
+366480310;Ricardo Barros;982438735;Av Luna Gaspar, 45 5255-606 Ermesinde;clínica geral
+801874251;Isabela Barros-Correia;970087181;R. Nacional 209, 73 7732-247 Valongo;clínica geral
+941923146;Hugo Valente;923988049;Travessa Carminho Sousa, 42 1058-551 Oliveira de Azeméis;clínica geral
+236055783;Carlota-Íris Leal;916164051;Largo Amaral, 5 0352-276 Lagos;clínica geral
+927700005;Núria Vicente;986879043;Praça Nascimento, 47 0484-971 Amarante;clínica geral
+992113993;Marta Machado;962611750;Rua de Figueiredo, 452 4101-495 Póvoa de Varzim;clínica geral
+868858151;Margarida Freitas;944582382;Avenida do Anjo, 55 6297-307 Tondela;clínica geral
+436254821;Ivan Garcia;973378446;Travessa de Matos, S/N 5613-492 Montemor-o-Novo;clínica geral
+578807897;Jaime Neves;955076627;Avenida das Virtudes, 72 7561-719 Alcobaça;clínica geral
+856914554;Benjamim Machado;968723972;Praça das Fragatas, 23 6881-708 Penafiel;clínica geral
+831479679;Alice Ribeiro;994846258;Av de Gaspar, 792 9069-498 Portalegre;clínica geral
+350168570;Pedro do Pinho;944416637;R. Torres, 9 2283-671 Rio Maior;clínica geral
+507570618;Rui Faria;998183774;Alameda de Vandoma, 90 4592-738 Abrantes;clínica geral
+527176046;Joana Leal;969299516;Largo de Vímara Peres, 19 2322-726 Lagoa;clínica geral
+685993852;Maria Paiva;973517772;Av Tavares, 438 0261-307 Gandra;clínica geral
+359765722;Lucas Henriques;975938159;Alameda Guerreiro, 850 4416-101 Anadia;clínica geral
+388868168;Adriana do Rocha;976988186;Av Catarina Pinheiro, 561 5421-940 Fiães;ortopedia
+201669223;Erica Campos-Anjos;932155359;Praça Ferreira, S/N 9700-335 Gandra;neurologia
+818356765;Micael Pinto;954439455;Travessa de Araújo, 10 6439-161 Leiria;oncologia
+811020309;Laura Vaz;955653845;R. das Japoneiras, 5 7684-181 Guimarães;ortopedia
+373850619;Mafalda Esteves-Coelho;997653222;Avenida de São Francisco, 55 9688-101 Entroncamento;cardiologia
+144055026;Naiara-Amélia Tavares;911631177;Largo de Assunção, 82 3900-760 Mirandela;neurologia
+428427042;Isabela Loureiro;979817908;Avenida de Sousa, 534 7017-990 Fiães;nefrologia
+283213985;Emília-Filipa Abreu;913342243;Av Abreu, 74 1099-685 Bragança;nefrologia
+600714232;Xavier da Branco;974025186;Travessa Oliveira, 371 4631-625 Elvas;nefrologia
+108599142;Luciana Cunha;980838328;R. Márcio Fonseca, S/N 4648-639 Vila Franca de Xira;neurologia
+968117039;Henrique Leite;985025705;Rua Cruz, 46 0604-506 Sabugal;ortopedia
+664590229;Lisandro Correia;904574432;Largo Rui Magalhães, 715 8595-207 Braga;cardiologia
+797386107;Jorge Monteiro-Silva;937648769;Praça de Costa, 73 9588-371 Faro;oncologia
+534406532;Bryan do Nunes;900532009;Rua Sandro Antunes, 93 8464-035 Vila Franca de Xira;nefrologia
+436934730;Lúcia Carneiro-Monteiro;941626382;Alameda Tomás Melo, 95 7992-286 Estremoz;ortopedia
+603255841;Alícia Marques;902910916;Largo de Ramos, 54 8192-571 Vizela;ortopedia
+522570960;Salvador do Miranda;914435533;Rua de Augusto Gomes, 560 4191-723 Espinho;neurologia
+582002803;Marta Freitas;971677045;Av Núria Mota, 7 3061-524 Figueira da Foz;ortopedia
+137061902;Pilar Pacheco-Ferreira;902375084;Avenida Areeiro, S/N 8021-053 Anadia;neurologia
+767437438;Larissa Costa;963333132;R. de Aquilino Ribeiro, 15 8674-492 Elvas;nefrologia
+756434415;Gabriela Cardoso;969489332;Avenida da Praia da Galé, 19 1360-229 Ílhavo;neurologia
+729068609;Santiago Garcia;978474559;Av Ribeiro, 11 1624-181 Vendas Novas;ortopedia
+949896066;Igor Silva;983034943;R. de Valente, 79 9345-159 Alcácer do Sal;cardiologia
+839023827;Jorge Coelho;915894745;Av do Cais das Pedras, 4 3456-277 Lourosa;ortopedia
+825443839;Letícia Lopes-Carvalho;958360123;Largo de Carrilho Videira, 99 3368-941 Entroncamento;neurologia
+979220998;Emma Nogueira;923502164;Travessa da Luz, 79 8909-933 Santarém;ortopedia
+498218564;Érica Vaz;940466528;Alameda Eva Vaz, 11 8010-209 Miranda do Douro;oncologia
+932232903;Vasco Borges;918527796;Praça da Bela Vista, 63 8169-477 Amarante;neurologia
+493646369;Flor Domingues;971143014;Rua dos Corvos, 97 3403-175 Caldas da Rainha;oncologia
+644189954;Mauro Assunção;963671267;R. Inês Morais, 47 4387-326 Figueira da Foz;cardiologia
+843416391;Mélanie do Freitas;979962291;R. Almeida, 23 3597-945 Vila Nova de Foz Côa;oncologia
+338778909;Sandro da Fernandes;987448685;Avenida Garcia, 779 3768-765 Setúbal;nefrologia
+956634955;Victória-Madalena Sousa;973357144;Travessa Ricardo Neves, S/N 1545-300 Santarém;ortopedia
+913916090;Lorena do Matias;916046244;R. da Companhia, 6 7100-908 Estarreja;neurologia
+478873116;Rafaela Mota;911569826;Alameda Almirante Pinheiro de Azevedo, 162 9748-460 Ponte de Sor;oncologia
+275754928;José Andrade-Barbosa;981212250;Largo Jesus, 951 9889-533 Caniço;oncologia
+649089951;Pedro de Ferreira;968585867;Travessa de Gaspar, 55 0276-081 Seixal;nefrologia
+221345304;Petra Silva;941353785;Alameda Júlia Vaz, 70 5170-242 Cantanhede;ortopedia
+750828901;Isabela Melo;998940281;Alameda de Nunes, 95 9090-332 Santarém;oncologia
+182635284;Pilar Alves;960544276;Alameda da Figueira, S/N 3214-611 Santo Tirso;neurologia

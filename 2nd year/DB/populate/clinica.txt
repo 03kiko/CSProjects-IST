@@ -1,0 +1,5 @@
+Clínica A;213456789;Rua Vasco da Gama, 1885-007 Moscavide
+Clínica B;214567890;Rua Almirante Gago Coutinho, 1885-003 Moscavide
+Clínica C;215678901;Rua do Bom Sucesso, 2695-109 Bobadela
+Clínica D;216789012;Praceta Miguel Torga, 2695-006 Bobadela
+Clínica E;217890123;Rua Rainha Dona Amélia, 2675-287 Odivelas

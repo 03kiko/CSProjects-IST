@@ -1,0 +1,30 @@
+710431631;Íris Lourenço;956040997;Praça Baptista, S/N 0084-482 Macedo de Cavaleiros;Clínica A
+471163836;Valentina-Victória Mota;964752847;Avenida Cláudio Neves, 245 1598-099 Vila Nova de Foz Côa;Clínica A
+259884693;Mia-Lara Lima;989623706;R. de Basílio Teles, 9 8156-949 Funchal;Clínica A
+401583124;Lourenço Pereira;966973020;Alameda de Castro, 1 8442-056 Santana;Clínica A
+583893903;Duarte Barbosa;959691498;Avenida do Moreda, 141 1950-154 Tarouca;Clínica A
+789875752;Ângelo Barros;942903510;Alameda de Basílio Teles, 15 8420-510 Marco de Canaveses;Clínica A
+425879348;Micael Torres;963595041;Avenida Melo, S/N 5375-265 Aveiro;Clínica B
+794495324;Yasmin Santos;941545198;Travessa de Fonseca, 55 4507-339 Fiães;Clínica B
+452233441;Caetana Araújo;910297677;R. Vitória Gaspar, S/N 8512-238 Anadia;Clínica B
+555053402;Matias Matos;959282991;Travessa Rafael Mendes, 63 5054-342 Póvoa de Varzim;Clínica B
+321971809;Luísa Neto;955143515;Praça de Vaz, 21 2615-656 Miranda do Douro;Clínica B
+179029321;Pilar-Victória Sá;900626387;Largo Gaspar, 58 9080-072 Bragança;Clínica B
+281291024;Mia Branco;998023128;Praça de Garcia, 767 1443-266 Lourosa;Clínica C
+893678325;Alexandre Silva;999070880;Largo de Brito, 80 6753-318 Fafe;Clínica C
+246018153;Sebastião Almeida;981299845;Travessa Soares, S/N 2338-339 Penafiel;Clínica C
+263071758;António do Correia;946534335;Rua de Gonçalves, 27 6550-302 Porto Santo;Clínica C
+204405698;Érica Gonçalves;934176174;R. Francisco Araújo, 712 7466-604 Fiães;Clínica C
+318029448;Adriana da Santos;919994332;Rua Constança Cunha, 97 3780-048 Ourém;Clínica C
+823446524;Carlos Abreu;935860948;R. Rafael Leal, 620 7170-935 Cartaxo;Clínica D
+266088359;Pilar Torres;944846769;Av Ana Baptista, 81 4140-412 Vila Nova de Famalicão;Clínica D
+181459570;Leonardo Amorim;900082638;R. de Amorim, 8 7239-073 Montemor-o-Novo;Clínica D
+246505187;Mia Rodrigues;917250022;Largo Emma Carvalho, 15 1943-585 Fiães;Clínica D
+563411943;Daniela Carneiro;931104128;Rua Larissa Simões, 49 6531-551 Sintra;Clínica D
+843478730;Eduarda Cunha;991724613;Praça Garcia, 10 4186-322 Portimão;Clínica D
+540473206;Salvador Garcia-Freitas;929385717;Travessa Pinto, 1 7736-985 Montemor-o-Novo;Clínica E
+959330566;Camila de Leal;950476451;R. Ramos, 12 6408-453 Ermesinde;Clínica E
+905006669;Íris Paiva;910094390;Avenida de Tavares, 76 9888-463 Gondomar;Clínica E
+141154932;Melissa Faria;921455240;Rua Machado, S/N 5239-865 Macedo de Cavaleiros;Clínica E
+832248731;Nelson Jesus;932587040;Avenida do Carvão, 40 2726-316 Cantanhede;Clínica E
+138026928;Tiago Lima;934567162;Praça de Marques, 267 4016-878 Beja;Clínica E
