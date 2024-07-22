@@ -1,5 +1,5 @@
 # CSProjects-IST
-This repository comprises a compilation of projects completed during my Bachelor's in Computer Science at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/). The projects are categorized by year and course. Please note that certain documentation might be missing due to constraints on public sharing.
+This repository comprises a compilation of projects completed during my Bachelor's in Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/). The projects are categorized by year and course. Please note that certain documentation might be missing due to constraints on public sharing.
 
 ## Courses
 ### 1st Year
@@ -61,7 +61,7 @@ This repository comprises a compilation of projects completed during my Bachelor
     - [PostGreSQL](https://www.postgresql.org/)
     - [Docker](https://www.docker.com/)
     - [Jupyter Notebook](https://jupyter.org/)
-  - [Project]()
+  - [Project](https://github.com/03kiko/CSProjects-IST/tree/main/2nd%20year/DB)
     - Developed a DB project with integrity constraints, data population, and a RESTful web service with JSON API endpoints. It also included a materialized view, data analysis (SQL & OLAP), and query optimization with indexes.
   - Collaboration with:
     - [Filipe Costa](https://github.com/FilipeAlexCosta)
