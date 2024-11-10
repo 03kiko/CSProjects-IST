@@ -61,7 +61,7 @@ This repository comprises a compilation of projects completed during my Bachelor
     - [PostGreSQL](https://www.postgresql.org/)
     - [Docker](https://www.docker.com/)
     - [Jupyter Notebook](https://jupyter.org/)
-  - [Project]()
+  - [Project](https://github.com/03kiko/CSProjects-IST/tree/main/2nd%20year/DB)
     - Developed a DB project with integrity constraints, data population, and a RESTful web service with JSON API endpoints. It also included a materialized view, data analysis (SQL & OLAP), and query optimization with indexes.
   - Collaboration with:
     - [Filipe Costa](https://github.com/FilipeAlexCosta)
@@ -78,6 +78,30 @@ This repository comprises a compilation of projects completed during my Bachelor
     - [Filipe Costa](https://github.com/FilipeAlexCosta)
     - [Rodrigo Freire](https://github.com/rodrigoFfreire)
     - [David Rodrigue](https://github.com/davidrr21)
+- Probability and Statistics (P&S):
+  - Technologies used:
+    - [R](https://www.r-project.org/)
+  - [Project](https://github.com/03kiko/CSProjects-IST/tree/main/2nd%20year/P&S)
+    - A collection of Probability and Statistics exercises implemented in R, focusing on data analysis, probability functions, and graph plotting. This project highlights essential statistical concepts through hands-on application with R.
+### 3rd Year
+- Machine Learning (ML):
+  - Technologies used:
+    - [Python](https://www.python.org/)
+  - [Homeworks](https://github.com/03kiko/CSProjects-IST/tree/main/3rd%20year/ML/Homeworks)
+    - A comprehensive series of homework assignments completed as part of the Machine Learning course, covering:
+      - Decision Trees & Model Evaluation (Homework 1)
+      - Lazy Learning & Bayesian Learning (Homework 2)
+      - Linear Regression & MLP (Homework 3)
+      - Clustering & Dimensionality Reduction (Homework 4)
+    - [Merit Award](https://github.com/03kiko/CSProjects-IST/tree/main/3rd%20year/ML/Merit%20Award)
+      - An additional homework project completed to compete for the Merit Award.
+- Computer Organization (CO):
+  - Technologies used:
+    - [C](https://en.wikipedia.org/wiki/C_(programming_language))
+    - [WinMIPS64](https://github.com/AndoniZubimendi/WinMIPS64?tab=readme-ov-file)
+  - [Project 1](https://github.com/03kiko/CSProjects-IST/tree/main/3rd%20year/CO/lab1)
+  - [Project 2](https://github.com/03kiko/CSProjects-IST/tree/main/3rd%20year/CO/lab2)
+  - [Project 3](https://github.com/03kiko/CSProjects-IST/tree/main/3rd%20year/CO/lab3)
 
 ## Contributing
 This repository is primarily for archival purposes, and I'm not accepting contributions now. However, feel free to fork the repository and leverage the code for your learning endeavours.
