@@ -93,15 +93,25 @@ This repository comprises a compilation of projects completed during my Bachelor
       - Lazy Learning & Bayesian Learning (Homework 2)
       - Linear Regression & MLP (Homework 3)
       - Clustering & Dimensionality Reduction (Homework 4)
-    - [Merit Award](https://github.com/03kiko/CSProjects-IST/tree/main/3rd%20year/ML/Merit%20Award)
+  - [Merit Award](https://github.com/03kiko/CSProjects-IST/tree/main/3rd%20year/ML/Merit%20Award)
       - An additional homework project completed to compete for the Merit Award.
+  - Collaboration with:
+      - [Filipe Costa](https://github.com/FilipeAlexCosta)
 - Computer Organization (CO):
   - Technologies used:
     - [C](https://en.wikipedia.org/wiki/C_(programming_language))
     - [WinMIPS64](https://github.com/AndoniZubimendi/WinMIPS64?tab=readme-ov-file)
   - [Project 1](https://github.com/03kiko/CSProjects-IST/tree/main/3rd%20year/CO/lab1)
+    - Developed a memory hierarchy composed of up to two levels of caches.
+      - Task 4.1 - Direct-Mapped L1 Cache.
+      - Task 4.2 - 2-level direct-mapped cache hierarchy.
+      - Task 4.3 - 2-level cache hierarchy with a direct-mapped first level and a 2-way set-associative second level.
   - [Project 2](https://github.com/03kiko/CSProjects-IST/tree/main/3rd%20year/CO/lab2)
+    - Analyzed the characteristics of a computer’s caches.
   - [Project 3](https://github.com/03kiko/CSProjects-IST/tree/main/3rd%20year/CO/lab3)
-
+    - Explored the operation of a pipelined computer architecture and implemented techniques to enhance the efficiency of developed computer programs. 
+  - Collaboration with:
+    - [Filipe Costa](https://github.com/FilipeAlexCosta)
+    - [Rafael Cruz](https://github.com/rafaelgcruz)
 ## Contributing
 This repository is primarily for archival purposes, and I'm not accepting contributions now. However, feel free to fork the repository and leverage the code for your learning endeavours.
