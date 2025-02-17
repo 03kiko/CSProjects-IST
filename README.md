@@ -1,5 +1,5 @@
 # CSProjects-IST
-This repository comprises a compilation of projects completed during my Bachelor's in Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/). The projects are categorized by year and course. Please note that certain documentation might be missing due to constraints on public sharing.
+This repository comprises a compilation of projects completed during my [Bachelor's in Computer Science and Engineering](https://fenix.tecnico.ulisboa.pt/cursos/leic-a/curriculo) at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/). The projects are categorized by year and course. Please note that certain documentation might be missing due to constraints on public sharing.
 
 ## Courses
 ### 1st Year
@@ -49,7 +49,7 @@ This repository comprises a compilation of projects completed during my Bachelor
   - [Project 1](https://github.com/03kiko/CSProjects-IST/tree/main/2nd%20year/ASA/P1)
   - [Project 2](https://github.com/03kiko/CSProjects-IST/tree/main/2nd%20year/ASA/P2)
   - [Project 3](https://github.com/03kiko/CSProjects-IST/tree/main/2nd%20year/ASA/P3)
-    - The primary objective was to devise efficient algorithms for these tasks, with the initial project emphasizing dynamic programming, the second concentrating on identifying strongly connected components (SCCs), and the third centring around applying linear programming.
+    The primary objective was to devise efficient algorithms for these tasks. The initial project emphasized dynamic programming, the second concentrated on identifying strongly connected components (SCCs), and the third focused on applying linear programming.
   - Collaboration with: [Filipe Costa](https://github.com/FilipeAlexCosta).
 - Artificial Intelligence (AI):
   - Language used: [Python](https://www.python.org/)
@@ -62,7 +62,7 @@ This repository comprises a compilation of projects completed during my Bachelor
     - [Docker](https://www.docker.com/)
     - [Jupyter Notebook](https://jupyter.org/)
   - [Project](https://github.com/03kiko/CSProjects-IST/tree/main/2nd%20year/DB)
-    - Developed a DB project with integrity constraints, data population, and a RESTful web service with JSON API endpoints. It also included a materialized view, data analysis (SQL & OLAP), and query optimization with indexes.
+    - Developed a DB project with integrity constraints, data population, and RESTful web service with JSON API endpoints. It also included a materialized view, data analysis (SQL & OLAP), and query optimization with indexes.
   - Collaboration with:
     - [Filipe Costa](https://github.com/FilipeAlexCosta)
     - [Tiago Cardoso](https://github.com/tiagomiguelcardoso)
@@ -105,7 +105,7 @@ This repository comprises a compilation of projects completed during my Bachelor
     - Developed a memory hierarchy composed of up to two levels of caches.
       - Task 4.1 - Direct-Mapped L1 Cache.
       - Task 4.2 - 2-level direct-mapped cache hierarchy.
-      - Task 4.3 - 2-level cache hierarchy with a direct-mapped first level and a 2-way set-associative second level.
+      - Task 4.3 - 2-level cache hierarchy with a direct-mapped first and 2-way set-associative second levels.
   - [Project 2](https://github.com/03kiko/CSProjects-IST/tree/main/3rd%20year/CO/lab2)
     - Analyzed the characteristics of a computer’s caches.
   - [Project 3](https://github.com/03kiko/CSProjects-IST/tree/main/3rd%20year/CO/lab3)
@@ -113,5 +113,20 @@ This repository comprises a compilation of projects completed during my Bachelor
   - Collaboration with:
     - [Filipe Costa](https://github.com/FilipeAlexCosta)
     - [Rafael Cruz](https://github.com/rafaelgcruz)
+- Computer Networks (CN):
+  - Technologies used:
+    - [C](https://en.wikipedia.org/wiki/C_(programming_language))
+  - [Project](https://github.com/03kiko/CSProjects-IST/tree/main/3rd%20year/CN)
+    - Developed a simple version of the Master Mind game. It consists of a Game Server(GS) and a Player Application(Player), where the GS and multiple Player instances are intended to operate simultaneously through the Internet (The GS will be running on a machine with known IP address and ports).
+  - Collaboration with:
+    - [Filipe Costa](https://github.com/FilipeAlexCosta)
+- Systems Analysis and Modeling (SAM):
+  - Technologies used:
+    - [ArchiMate - Archi](https://www.archimatetool.com/)
+    - [BPMN - Camunda](https://camunda.com/)
+    - [Enterprise Architect](https://sparxsystems.com/products/ea/)
+  - [Project](https://github.com/03kiko/CSProjects-IST/tree/main/3rd%20year/SAM)
+    - Developed multiple diagrams using ArchiMate, BPMN, UML, and SysML to represent various aspects of a system within its Universo de Discurso (UoD).
+  - Collaboration with 2 colleagues in this project.
 ## Contributing
-This repository is primarily for archival purposes, and I'm not accepting contributions now. However, feel free to fork the repository and leverage the code for your learning endeavours.
+This repository is for archival purposes only. As such, I’m not accepting contributions.
